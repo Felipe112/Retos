@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43b06ade-a16a-4004-b363-21c7fb289a76" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lzesm2sOOdg7qiSh0pRJez0BtG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.MainTest.executor": "Run",
+    "JUnit.MainTest.should log correct messages when main method is executed.executor": "Run",
+    "JUnit.SumTest.executor": "Run",
+    "Maven.SumaPares [clean].executor": "Run",
+    "Maven.SumaPares [compile].executor": "Run",
+    "Maven.SumaPares [install].executor": "Run",
+    "Maven.SumaPares [package].executor": "Run",
+    "Maven.SumaPares [validate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "Spock",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Spock": "spock.lang.Specification",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/andresceballos/Documents/DESARROLLO/Java/Retos/1.SumaPares",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="spock.lang.Specification" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="retos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GeneratorTest">
+    <configuration name="GeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SumaPares" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="retos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="retos" />
+      <option name="MAIN_CLASS_NAME" value="retos.GeneratorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneratorTest.generatorArrayNumbers debería manejar correctamente la creación de un arreglo de tamaño 1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SumaPares" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="retos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="retos" />
+      <option name="MAIN_CLASS_NAME" value="retos.GeneratorTest" />
+      <option name="METHOD_NAME" value="generatorArrayNumbers debería manejar correctamente la creación de un arreglo de tamaño 1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneratorTest.generatorArrayNumbers debería manejar correctamente la creación de un arreglo de tamaño máximo 100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SumaPares" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="retos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="retos" />
+      <option name="MAIN_CLASS_NAME" value="retos.GeneratorTest" />
+      <option name="METHOD_NAME" value="generatorArrayNumbers debería manejar correctamente la creación de un arreglo de tamaño máximo 100" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SumaPares" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="retos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="retos" />
+      <option name="MAIN_CLASS_NAME" value="retos.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SumaPares" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="retos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="retos" />
+      <option name="MAIN_CLASS_NAME" value="retos.SumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="1.SumaPares" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="1.SumaPares" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="LiferayServerConfiguration" factoryName="Liferay Server">
+      <Liferay-Sever alternativeJrePath="" bundleLocation="" bundleType="" developerMode="true" gogoShellPort="11311" vmParameters="-Xmx2560m -XX:MaxMetaspaceSize=768m -XX:MetaspaceSize=768m">
+        <envs>
+          <env name="PATH" value="/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin" />
+          <env name="JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home" />
+        </envs>
+        <module name="SumaPares" />
+      </Liferay-Sever>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GeneratorTest" />
+        <item itemvalue="JUnit.GeneratorTest.generatorArrayNumbers debería manejar correctamente la creación de un arreglo de tamaño máximo 100" />
+        <item itemvalue="JUnit.GeneratorTest.generatorArrayNumbers debería manejar correctamente la creación de un arreglo de tamaño 1" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.SumTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43b06ade-a16a-4004-b363-21c7fb289a76" name="Changes" comment="" />
+      <created>1726187541401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726187541401</updated>
+    </task>
+    <servers />
+  </component>
+</project>
