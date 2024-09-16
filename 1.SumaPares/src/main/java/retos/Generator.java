@@ -6,7 +6,8 @@ import java.util.concurrent.ThreadLocalRandom;
 /**
  * Clase enfocada en brindar metodos que faciliten la generación de números.
  *
- * @Author Andrés F. Ceballos. {@code @Since} 2024-09-13
+ * @author Andrés F. Ceballos.
+ * @since 2024-09-13
  */
 public class Generator {
 

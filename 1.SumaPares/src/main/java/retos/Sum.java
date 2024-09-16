@@ -3,8 +3,8 @@ package retos;
 /**
  * Clase encargada de crear los procesos de suma.
  *
- * @Author Andrés F. Ceballos.
- * @See 2024-09-12
+ * @author Andrés F. Ceballos.
+ * @since 2024-09-12
  */
 public class Sum {
 

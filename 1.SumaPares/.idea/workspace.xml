@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43b06ade-a16a-4004-b363-21c7fb289a76" name="Changes" comment="" />
+    <list default="true" id="43b06ade-a16a-4004-b363-21c7fb289a76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../2.InvertirCadena/src/main/java/retos/ConvertString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/retos/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/retos/Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/retos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/retos/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/retos/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/retos/Sum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -25,28 +36,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "JUnit.MainTest.executor": "Run",
-    "JUnit.MainTest.should log correct messages when main method is executed.executor": "Run",
-    "JUnit.SumTest.executor": "Run",
-    "Maven.SumaPares [clean].executor": "Run",
-    "Maven.SumaPares [compile].executor": "Run",
-    "Maven.SumaPares [install].executor": "Run",
-    "Maven.SumaPares [package].executor": "Run",
-    "Maven.SumaPares [validate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "Spock",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Spock": "spock.lang.Specification",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/andresceballos/Documents/DESARROLLO/Java/Retos/1.SumaPares",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.should log correct messages when main method is executed.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SumTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SumaPares [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SumaPares [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SumaPares [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SumaPares [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SumaPares [validate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;Spock&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Spock&quot;: &quot;spock.lang.Specification&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/1&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/andresceballos/Documents/DESARROLLO/Java/Retos/1.SumaPares&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="spock.lang.Specification" />
@@ -56,6 +68,11 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.GeneratorTest">
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="GeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SumaPares" />
       <extension name="coverage">
@@ -146,28 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
-      <option name="passParentEnvironments" value="true" />
-      <option name="workspaceLocation" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="LiferayServerConfiguration" factoryName="Liferay Server">
-      <Liferay-Sever alternativeJrePath="" bundleLocation="" bundleType="" developerMode="true" gogoShellPort="11311" vmParameters="-Xmx2560m -XX:MaxMetaspaceSize=768m -XX:MetaspaceSize=768m">
-        <envs>
-          <env name="PATH" value="/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin" />
-          <env name="JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home" />
-        </envs>
-        <module name="SumaPares" />
-      </Liferay-Sever>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GeneratorTest" />
+        <item itemvalue="JUnit.SumTest" />
+        <item itemvalue="JUnit.MainTest" />
         <item itemvalue="JUnit.GeneratorTest.generatorArrayNumbers debería manejar correctamente la creación de un arreglo de tamaño máximo 100" />
         <item itemvalue="JUnit.GeneratorTest.generatorArrayNumbers debería manejar correctamente la creación de un arreglo de tamaño 1" />
-        <item itemvalue="JUnit.MainTest" />
-        <item itemvalue="JUnit.SumTest" />
+        <item itemvalue="JUnit.GeneratorTest" />
       </list>
     </recent_temporary>
   </component>

@@ -7,8 +7,8 @@ import org.slf4j.LoggerFactory;
 /**
  * Clase principal del programa.
  *
- * @Author Andrés F. Ceballos.
- * @See 2024-09-12
+ * @author Andrés F. Ceballos.
+ * @since 2024-09-12
  */
 public class Main {
 
