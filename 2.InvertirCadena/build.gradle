@@ -1,6 +1,7 @@
 plugins {
     id 'java'
     id 'io.franzbecker.gradle-lombok' version '5.0.0'
+    id 'groovy'
 }
 
 group = 'retos'
@@ -22,9 +23,15 @@ dependencies {
     testCompileOnly 'org.projectlombok:lombok:1.18.34'
     testAnnotationProcessor 'org.projectlombok:lombok:1.18.34'
 
+    // JUnit 5
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+
     // Spock Framework
     testImplementation 'org.spockframework:spock-core:2.3-groovy-3.0'
     testImplementation 'org.spockframework:spock-junit4:2.3-groovy-3.0'
+
+    // Groovy
     testImplementation 'org.codehaus.groovy:groovy-all:3.0.18'
 }
 
