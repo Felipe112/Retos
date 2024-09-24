@@ -1,8 +1,5 @@
 package retos;
 
-import static java.util.FormatProcessor.FMT;
-
-import java.util.HashMap;
 import java.util.Map;
 import lombok.extern.java.Log;
 
@@ -23,13 +20,17 @@ class Main {
    * Método principal del programa.
    */
   void main() {
+
     CountString countString = new CountString();
-    Map<Vowel, Integer> result = countString.countVowels("El veloz murciélago hindú comía feliz cardillo y kiwi.");
-   String total = "";
+    Map<Vowel, Integer> result =
+        countString.countVowels("El veloz murciélago hindú comía feliz cardillo y kiwi.");
+    StringBuilder total = new StringBuilder();
+
     for (Map.Entry<Vowel, Integer> entry : result.entrySet()) {
-      total += STR."\n Vocal \{entry.getKey()} # \{entry.getValue()} ";
+      total.append(STR."\n Vocal \{entry.getKey()} # \{entry.getValue()} ");
     }
-    log.info(total);
+
+    log.info(total.toString());
   }
 
 }
