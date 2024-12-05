@@ -29,14 +29,11 @@ Importante todo y cada uno de los proyectos debe tener pruebas unitarias y adici
 10. **Laberinto Resolver:** Dado un laberinto representado como una matriz de caracteres, encuentra el camino desde la entrada hasta la salida. Considera múltiples caminos y obstáculos.
 
 ### Retos Difíciles
+### Retos Difíciles
 
-1. **Simulador de Procesos Concurrentes:** Implementa un simulador simple de procesos concurrentes con manejo de bloqueos, concurrencia y comunicación entre procesos (IPC). El simulador debe permitir definir prioridades y tiempos de ejecución para cada proceso.
-2. **Compresor de Archivos:** Implementa un algoritmo de compresión de archivos, como Huffman o LZW. El programa debe poder comprimir y descomprimir archivos, y comparar la eficiencia en términos de espacio ahorrado.
-3. **Generador de Código QR:** Crea un generador de códigos QR que tome texto como entrada y produzca una imagen de código QR. Considera la posibilidad de manejar diferentes niveles de corrección de errores y tamaño de QR.
-4. **Motor de Recomendación Básico:** Construye un motor de recomendación simple basado en filtrado colaborativo. El motor debe ser capaz de recomendar productos a un usuario basándose en las preferencias de usuarios similares.
-5. **Analizador de Log de Servidor:** Escribe un programa que procese logs de servidor y genere reportes útiles (por ejemplo, IP más frecuente, errores comunes, tiempos de respuesta). El programa debe manejar grandes volúmenes de datos y permitir filtros avanzados.
-6. **Sistemas de Autenticación JWT:** Implementa un sistema de autenticación utilizando tokens JWT para autenticación segura en una API REST. Asegúrate de manejar la renovación de tokens y la invalidación de sesiones.
-7. **Mini Motor de Juegos:** Crea un mini motor de juegos que soporte sprites, físicas básicas, y colisiones. El motor debe ser flexible para soportar diferentes tipos de juegos 2D.
-8. **Chat en Tiempo Real:** Desarrolla un servidor de chat en tiempo real utilizando WebSockets. Implementa características como salas de chat, usuarios con nombres y notificaciones de usuarios conectados/desconectados.
-9. **Sistema de Caché con Expiración:** Implementa un sistema de caché con expiración de elementos y política de reemplazo LRU (Least Recently Used). El sistema debe ser eficiente en términos de memoria y tiempo de acceso.
-10. **Clasificador de Imágenes con IA:** Implementa un clasificador de imágenes utilizando un modelo de Machine Learning. Usa un conjunto de datos público para entrenar el modelo y evalúa su precisión en clasificar nuevas imágenes. Utiliza una red neuronal preentrenada como punto de partida (por ejemplo, ResNet).
+Este proyecto tendrá todas estas caracteristicas.
+
+1. **Generador de Código QR:** Crea un generador de códigos QR que tome texto como entrada y produzca una imagen de código QR. Considera la posibilidad de manejar diferentes niveles de corrección de errores y tamaño de QR.
+2. **Sistemas de Autenticación JWT:** Implementa un sistema de autenticación utilizando tokens JWT para autenticación segura en una API REST. Asegúrate de manejar la renovación de tokens y la invalidación de sesiones.
+3. **Sistema de Caché con Expiración:** Implementa un sistema de caché con expiración de elementos y política de reemplazo LRU (Least Recently Used). El sistema debe ser eficiente en términos de memoria y tiempo de acceso.
+4. **Asistente de IA Integrado:** Desarrolla un asistente virtual que use un modelo preentrenado de IA (como OpenAI GPT-4 o Hugging Face) para integrar funcionalidades en una aplicación existente. Por ejemplo, un chatbot que responda preguntas sobre un sistema de gestión o que realice análisis de texto sobre documentos subidos por el usuario.
